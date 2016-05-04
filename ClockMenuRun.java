@@ -3,6 +3,8 @@ Author:    Khaja Anwar Ali, Siddiqui
 Usage:   Inheritance, polymorphism and interfaces.
 
 *********************************************************************/
+//Package name.
+package default;
 // Required imports:
 import javax.swing.JFrame;
 // Implementing the clockMenu by creating an object.
