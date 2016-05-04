@@ -1,19 +1,10 @@
 /* ******************************************************************
-Class:     CSCI 470-1
-Program:   Assignment 4
 Author:    Khaja Anwar Ali, Siddiqui
-Z-number:  z1778291
-Date Due:  04/28/16
-
-Purpose:   Inheritance, polymorphism and interfaces.
-
-Execution: java hw4-sidd
-
-           java hw4
+Usage:   Inheritance, polymorphism and interfaces.
 
 *********************************************************************/
-//Package name
-package hw04.sidd;
+//Package name.
+package default;
 // Required imports:
 import java.awt.Color;
 import java.awt.Container;
